@@ -35,8 +35,8 @@ Feel free to connect with me here:
 
 ## :ticket: Certifications
 
-* Microsoft Certified: [**AZ-204 - Microsoft Azure DevOps Engineer Expert**](https://learn.microsoft.com/pt-br/credentials/certifications/devops-engineer)
-* Microsoft Certified: [**AZ-400 - Microsoft Azure Developer Associate**](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer)
+* Microsoft Certified: [**AZ-204 - DevOps Engineer Expert**](https://learn.microsoft.com/pt-br/credentials/certifications/devops-engineer)
+* Microsoft Certified: [**AZ-400 - Azure Developer Associate**](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer)
 * Microsoft Certified: [**AZ-900 - Azure Fundamentals**](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals)
 
 #### Verify each one by clicking the badges below :point_down:
