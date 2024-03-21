@@ -9,20 +9,20 @@ Feel free to connect with me here:
 
 ## :computer: Technologies I work with
 
-#### Languages and runtimes:
+#### Languages and runtimes
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Shell Script](https://img.shields.io/badge/-Shell_Script-red?style=flat-square&logo=gnome-terminal&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-#### Frameworks and libraries:
+#### Frameworks and libraries
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-#### Architectures and methodologies:
+#### Architectures and methodologies
 ![Microservices](https://img.shields.io/badge/-Microservices-316192?style=flat-square&logo=diagramsdotnet&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-316192?style=flat-square&logo=target&logoColor=white) ![Test Driven Development](https://img.shields.io/badge/-Test_Driven_Development-316192?style=flat-square&logo=cachet&logoColor=white)
 #### Documentation
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![OpenAPI/Swagger](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white) ![TSOA](https://img.shields.io/badge/-TSOA-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-#### Databases:
+#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=flat-square) ![MariaDB](https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-#### Platforms:
+#### Platforms
 ![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=white&style=flat-square) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FCA121?style=flat-square&logo=amazon-aws&logoColor=black) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-232F7E?style=flat-square&logo=azure-devops) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Podman](https://img.shields.io/badge/-Podman-black?style=flat-square&logo=podman)
-#### Code versioning:
+#### Code versioning
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## :pencil: Technologies I'm studying
